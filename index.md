@@ -1,0 +1,23 @@
+---
+layout: page
+title: Deep Learning | UB
+tagline: Grad Student Descent
+description: Homepage for the DL student special interest group at UB
+---
+
+Welcome to UB Deep Learning! 
+
+We're a bunch of students from UB interested in deep learning. With the excitement around deep learning, we thought it was time to bring people with similar interests under one roof. Our goal is to increase of students who are exposed to DL through:
+- Content
+- Competitions
+- Collaboration
+
+This page will be a singular home for all things related to DL at UB. Content related to the club will be distributed through GitHub. Please feel free to submit any issues and/or comments where necessary. 
+
+- [Resources](pages/resources.html)
+
+---
+A lot of the content will be derived from the following links:
+[github](https://github.com/jsaurabh/dl-ub),
+[Michael Nielsen's awesome intro book](http://neuralnetworksanddeeplearning.com/)
+and [fast.ai course](https://course.fast.ai)

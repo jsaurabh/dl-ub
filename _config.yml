@@ -1,0 +1,38 @@
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md"]
+highlighter: rouge
+
+title : Deep Learning at UB
+author :
+  name : Saurabh Jain
+  email : j.saur95@gmail.com
+  github : jsaurabh
+  twitter : jsaurabh1995
+feedburner : nil
+
+
+production_url : https://jsaurabh.github.io/dl-ub
+
+markdown: kramdown
+
+JB :
+  version : 0.3.0
+
+  BASE_PATH : https://jsaurabh.github.io/dl-ub
+
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+
+  comments :
+    provider : false
+
+  analytics :
+    provider : false
+
+  sharing :
+    provider : false
+  
