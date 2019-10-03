@@ -19,7 +19,7 @@ This page will be a singular home for all things related to DL at UB. Content re
 
 ---
 A lot of the content will be derived and referenced from the following links:
-[github](https://github.com/jsaurabh/dl-ub/),
+[github](https://github.com/jsaurabh/dl-ub/tree/master),
 [Michael Nielsen's awesome intro book](http://neuralnetworksanddeeplearning.com/)
 and [fast.ai course](https://course.fast.ai)
 
