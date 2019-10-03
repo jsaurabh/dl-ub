@@ -15,9 +15,12 @@ We're a bunch of students from UB interested in deep learning. With the exciteme
 This page will be a singular home for all things related to DL at UB. Content related to the club will be distributed through GitHub. Please feel free to submit any issues and/or comments where necessary. 
 
 - [Resources](pages/resources.html)
+- [Week 1](pages/w1.md)
 
 ---
-A lot of the content will be derived from the following links:
+A lot of the content will be derived and referenced from the following links:
 [github](https://github.com/jsaurabh/dl-ub),
 [Michael Nielsen's awesome intro book](http://neuralnetworksanddeeplearning.com/)
 and [fast.ai course](https://course.fast.ai)
+
+Static project website using Jekyll from [here:](https://github.com/kbroman/simple_site)
