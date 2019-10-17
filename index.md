@@ -17,6 +17,7 @@ This page will be a singular home for all things related to DL at UB. Content re
 - [Resources](pages/resources.html)
 - [Week 1](pages/w1.html)
 - [Week 2](pages/w2.html)
+- [Week 3](pages/w3.html)
 
 ---
 A lot of the content will be derived and referenced from the following links:
