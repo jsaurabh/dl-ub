@@ -10,3 +10,4 @@ other resources out there.
 - [Towards Data Science](https://towardsdatascience.com)
 - [fast.ai forums](https://forums.fast.ai)
 - [Kaggle Kernels](https://www.kaggle.com/kernels)
+- [Chris Olah's blog](http://colah.github.io/)
